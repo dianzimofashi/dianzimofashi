@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**dianzimofashi/dianzimofashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/dianzimofashi">
+    <img src="https://github-readme-stats.zohan.tech/api?username=dianzimofashi&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff" alt="dianzimofashi's GitHub Stats" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="typing_profile_svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light" alt="dianzimofashi's github activity graph" />
+  </a>
+</div>
