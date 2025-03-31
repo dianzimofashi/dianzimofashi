@@ -9,8 +9,3 @@
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="typing_profile_svg" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light" alt="dianzimofashi's github activity graph" />
-  </a>
-</div>
