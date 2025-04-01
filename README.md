@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue" alt="Python">
 </div>
 
-<div>
+<div align="center">
 	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repo)</b>
 </div>
 <div align="left">
