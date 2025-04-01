@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue" alt="Python">
-  <img src="https://img.shields.io/badge/CUDA-14354C.svg?logo=CUDA&logoColor=green" alt="CUDA">
 </div>
 
 <div align="center">
@@ -41,5 +40,13 @@
 	<div align="center">
 		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=30% alt="WeChat_leave_a_message.png">
 	</div> 
-
+</div>
+<div>
+	<div>
+ 		<b>留言联系(Leave a message)</b>	
+	</div>
+ 	<div align="center">
+		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=30% alt="WeChat_leave_a_message.png">
+	</div> 
+	
 </div>
