@@ -43,10 +43,9 @@
 </div>
 <div>
 	<div>
- 		<b>留言联系(Leave a message)</b>	
+ 		<b>东方厨(Touhoufans)</b>	
 	</div>
  	<div align="center">
 		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Touhou.jpg" width=50% alt="WeChat_leave_a_message.png">
-	</div> 
-	
+	</div> 	
 </div>
