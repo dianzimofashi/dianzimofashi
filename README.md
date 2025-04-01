@@ -12,7 +12,7 @@
 </div>
 
 
-<div>
+<div align="center">
 	<div>
 		<div>
 	     		<b>Recommended hardware for laptop:</b>
