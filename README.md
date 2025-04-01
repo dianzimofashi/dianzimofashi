@@ -14,11 +14,11 @@
 	<div>
 		<b>Best Firms Favored for Laptop & Desktop:</b>
 	</div>
-	<img src="https://img.shields.io/badge/AMD-Ryzen7 5800H-ED1C24.svg?logo=amd&logoColor=white" alt="AMD firm">
+	<img src="https://img.shields.io/badge/AMD-Ryzen7 5800H-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
 	<img src="https://img.shields.io/badge/NVIDIA-RTX3050Laptop-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">
 </div>
 <div>
-	<img src="https://img.shields.io/badge/AMD-Ryzen7 9700X-ED1C24.svg?logo=amd&logoColor=white" alt="AMD firm">
+	<img src="https://img.shields.io/badge/AMD-Ryzen7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
  	<img src="https://img.shields.io/badge/NVIDIA-TITAN V-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">
 
 	
