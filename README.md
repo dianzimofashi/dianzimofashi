@@ -19,7 +19,5 @@
 </div>
 <div>
 	<img src="https://img.shields.io/badge/AMD-Ryzen7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
- 	<img src="https://img.shields.io/badge/NVIDIA-TITAN V-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">
-
-	
+ 	<img src="https://img.shields.io/badge/NVIDIA-TITAN V-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">	
 </div>
