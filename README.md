@@ -48,12 +48,9 @@
 
 <div>
 	<div>
-		
+ 		<b>哔哩哔哩(BiliBili)</b>
 	</div>
- 	
-
- 
- 
+ 	<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=30% alt="Bilibili_channnl.png">
 </div>
 
 
