@@ -19,7 +19,7 @@
 
 
 <div align="center">
-	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repo)</b>
+	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repos)</b>
 </div>
 
 
