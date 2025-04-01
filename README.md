@@ -46,7 +46,7 @@
  		<b>留言联系(Leave a message)</b>	
 	</div>
  	<div align="center">
-		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=30% alt="WeChat_leave_a_message.png">
+		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Touhou.jpg" width=50% alt="WeChat_leave_a_message.png">
 	</div> 
 	
 </div>
