@@ -10,4 +10,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue" alt="Python">
 </div>
-
+<div>
+	<img src="https://img.shields.io/badge/Nvidia-RTX3050-76B900.svg?logo=nvidia&logoColor=white" alt = "nvidia firm">
+</div>
