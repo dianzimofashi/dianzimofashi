@@ -9,3 +9,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 </div>
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
