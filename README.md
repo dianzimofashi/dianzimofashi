@@ -38,7 +38,4 @@
 		<b>留言联系(Leave a message)</b>
 	</div>
 	<img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt="Wechat">
-	<div>
-		
-	</div>
 </div>
