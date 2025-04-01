@@ -47,10 +47,12 @@
 
 
 <div>
-	<div  align="center">
+	<div>
  		<b>哔哩哔哩(BiliBili)</b>
 	</div>
- 	<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=30% alt="Bilibili_channnl.png">
+	<div align="center">
+ 		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=30% alt="Bilibili_channnl.png">
+	</div>
 </div>
 
 
@@ -63,7 +65,9 @@
 	<div>
 		<b>留言联系(Leave a message)</b>
 	</div>
+	
 	<img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt="Wechat">
+ 
 	<div align="center">
 		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=30% alt="WeChat_leave_a_message.png">
 	</div> 
