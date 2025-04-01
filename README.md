@@ -11,18 +11,20 @@
   <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue" alt="Python">
 </div>
 
-
+<div>
+	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repo)</b>
+</div>
 <div align="left">
 	<div>
 		<div>
-	     		<b>Recommended hardware for laptop:</b>
+	     		<b>笔记本端推荐硬件(Recommended hardware for laptop)</b>
 		</div>
 		<img src="https://img.shields.io/badge/AMD-Ryzen7 5800H-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
 		<img src="https://img.shields.io/badge/NVIDIA-RTX3050Laptop-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">
 	</div>
 	<div>
 		<div>
- 	    		<b>Recommended hardware for desktop:</b>
+ 	    		<b>桌面端推荐硬件(Recommended hardware for desktop)</b>
 		</div>
 		<img src="https://img.shields.io/badge/AMD-Ryzen7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
  		<img src="https://img.shields.io/badge/NVIDIA-TITAN V-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">	
