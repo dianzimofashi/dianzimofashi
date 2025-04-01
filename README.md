@@ -20,14 +20,14 @@
 		<div>
 	     		<b>笔记本端推荐硬件(Recommended hardware for laptop)</b>
 		</div>
-		<img src="https://img.shields.io/badge/AMD-Ryzen-7 5800H-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
+		<img src="https://img.shields.io/badge/AMD-Ryzen 7 5800H-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
 		<img src="https://img.shields.io/badge/NVIDIA-RTX3050Laptop-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">
 	</div>
 	<div>
 		<div>
  	    		<b>桌面端推荐硬件(Recommended hardware for desktop)</b>
 		</div>
-		<img src="https://img.shields.io/badge/AMD-Ryzen-7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
+		<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">
  		<img src="https://img.shields.io/badge/NVIDIA-TITAN V-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">	
 	</div>
 	
