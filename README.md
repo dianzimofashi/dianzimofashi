@@ -83,6 +83,6 @@
  		<b>东方厨(Touhoufans)</b>	
 	</div>
  	<div align="center">
-		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Touhou.jpg" width=50% alt="WeChat_leave_a_message.png">
+		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Touhou.jpg" width=20% alt="WeChat_leave_a_message.png">
 	</div> 	
 </div>
