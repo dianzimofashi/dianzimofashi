@@ -9,7 +9,9 @@
 
 
 <div align="center">
-
+<div align="center">
+	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repos)</b>
+</div>
 |桌面端处理器|核心 线程|桌面端显卡|显存|
 |:-----:|:-----:|:-------:|:-------:|
 |<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">|6 12|<img src="https://img.shields.io/badge/NVIDIA-RTX 2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|6GB 12GB|
@@ -28,9 +30,7 @@
 
 
 
-<div align="center">
-	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repos)</b>
-</div>
+
 
 
 
