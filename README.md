@@ -6,7 +6,8 @@
 </div>
 
 ****
-<div align="center">
+
+<div>
 	
 |桌面端处理器|核心 线程|
 |:-----:|:-----:|
@@ -19,7 +20,8 @@
 
 </div>
 
-
+<div>
+	
 |桌面端显卡|显存|
 |:-------:|:-------:|
 |<img src="https://img.shields.io/badge/NVIDIA-RTX 2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|6GB 12GB|
@@ -28,6 +30,8 @@
 |<img src="https://img.shields.io/badge/NVIDIA-RTX 3070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
 |<img src="https://img.shields.io/badge/NVIDIA-RTX 4060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
 |<img src="https://img.shields.io/badge/NVIDIA-RTX 4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|12GB|
+
+</div>
 
 
 
