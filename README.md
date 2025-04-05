@@ -7,17 +7,6 @@
 
 ****
 
-|作者|果冻虾仁|
-|---|---
-|知乎|[![zhihu-shield]][zhihu]
-|公众号|编程往事
-
-| 硬件配置|笔记本端|
-|:-------:|:-------:|:--------:|
-|       | centered        |   $12 |
-| RAM      | are neat        |    $1 |
-
-
 |显卡|桌面端|显存| 
 |:-------:|:-------:|:-------:|
 |GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB|
