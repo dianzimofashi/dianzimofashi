@@ -12,13 +12,22 @@
 |知乎|[![zhihu-shield]][zhihu]
 |公众号|编程往事
 
-| 硬件配置 | 笔记本端 |  桌面端  |
-|:------------:|:------------:|:------------:|
-| CPU      |<img src="https://img.shields.io/badge/AMD-Ryzen 7 5800H-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm"><img src="https://img.shields.io/badge/Intel-Core i5 12600K-ED1C24.svg?logo=amd&logoColor=red" alt="Intel firm">| <img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm"> |
-
-| GPU      | centered        |   $12 |
+| 硬件配置|笔记本端|
+|:-------:|:-------:|:--------:|
+|       | centered        |   $12 |
 | RAM      | are neat        |    $1 |
 
+
+|硬件配置|桌面端| 
+|:-------:|:-------:|
+|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">| 
+|   |<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|    
+
+
+| 硬件配置 | 笔记本端 |  桌面端  |
+|:-------:|:-------:|:--------:|
+|       | centered        |   $12 |
+| RAM      | are neat        |    $1 |
 
 
 
