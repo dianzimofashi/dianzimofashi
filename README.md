@@ -7,7 +7,7 @@
 
 ****
 
-|桌面端|显存|
+|桌面端处理器|核心|
 |:-----:|:-----:|
 |<img src="https://img.shields.io/badge/intel-Core i5 14600K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">| |
 |<img src="https://img.shields.io/badge/intel-Core i7 14700K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">| |
@@ -15,7 +15,7 @@
 |<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">| |
 
 
-|桌面端|显存|
+|桌面端显卡|显存|
 |:-------:|:-------:|
 |<img src="https://img.shields.io/badge/NVIDIA-RTX 2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|6GB 12GB|
 |<img src="https://img.shields.io/badge/NVIDIA-RTX 2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
