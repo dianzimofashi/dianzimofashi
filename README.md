@@ -9,10 +9,10 @@
 
 |桌面端|显存|
 |:-----:|:-----:|
-|<img src="https://img.shields.io/badge/Intel-Core 5 14600K-ED1C24.svg?logo=intel&logoColor=blue" alt="AMD firm">| |
-|<img src="https://img.shields.io/badge/Intel-Core 7 14700K-ED1C24.svg?logo=intel&logoColor=blue" alt="AMD firm">| |
-|<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">| |
-|<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">| |
+|<img src="https://img.shields.io/badge/Intel-Core 5 14600K-ED1C24.svg?logo=intel&logoColor=white" alt="intel-firm">| |
+|<img src="https://img.shields.io/badge/Intel-Core 7 14700K-ED1C24.svg?logo=intel&logoColor=white" alt="intel-firm">| |
+|<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">| |
+|<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">| |
 
 |桌面端|显存|
 |:-------:|:-------:|
