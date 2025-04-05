@@ -13,7 +13,7 @@
 	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repos)</b>
 </div>
 	
-|桌面端处理器(Desktop CPU)|核心(cores)线程(threads)|桌面端显卡(Desktop GPU)|显存(VRAM)|
+|桌面端处理器(Desktop CPU)|核心与线程(Cores&Threads)|桌面端显卡(Desktop GPU)|显存(vRAM)|
 |:-----:|:-----:|:-------:|:-------:|
 |<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">|6 12|<img src="https://img.shields.io/badge/NVIDIA-RTX 2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|6GB 12GB|
 |<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">|8 16|<img src="https://img.shields.io/badge/NVIDIA-RTX 2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
