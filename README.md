@@ -14,9 +14,9 @@
 
 | 硬件配置 | 笔记本端 | 桌面端 |
 | :------------: |:------------:|:------------:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| CPU      | some wordy text | $1600 |
+| GPU      | centered        |   $12 |
+| RAM   | are neat        |    $1 |
 
 
 
