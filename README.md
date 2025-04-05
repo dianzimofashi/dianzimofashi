@@ -18,7 +18,7 @@
 | RAM      | are neat        |    $1 |
 
 
-|硬件配置|桌面端|显存| 
+|显卡|桌面端|显存| 
 |:-------:|:-------:|:-------:|
 |GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB|
 |GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
