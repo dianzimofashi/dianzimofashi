@@ -7,7 +7,6 @@
 
 ****
 
-
 <div align="center">
 <div align="center">
 	<b>部分仓库项目最低硬件支持(Minimum hardware support for some repos)</b>
@@ -23,6 +22,8 @@
 |<img src="https://img.shields.io/badge/intel-Core Ultra 7 265K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">|8P+12E 20|<img src="https://img.shields.io/badge/NVIDIA-RTX 4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|12GB|
 
 </div>
+
+****
 
 <div>
 	<div>
