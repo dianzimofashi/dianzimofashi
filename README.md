@@ -6,7 +6,7 @@
 </div>
 
 ****
-<div align="center"><div>
+<div align="center">
 |桌面端处理器|核心 线程|
 |:-----:|:-----:|
 |<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">|6 12|
@@ -16,7 +16,7 @@
 |<img src="https://img.shields.io/badge/intel-Core Ultra 5 245K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">|6P+8E 14|
 |<img src="https://img.shields.io/badge/intel-Core Ultra 7 265K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">|8P+12E 20|
 </div>
-</div>
+
 
 |桌面端显卡|显存|
 |:-------:|:-------:|
