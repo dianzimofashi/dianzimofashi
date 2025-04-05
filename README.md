@@ -9,19 +9,20 @@
 
 |桌面端|显存|
 |:-----:|:-----:|
-|<img src="https://img.shields.io/badge/Intel-Core 5 14600K-ED1C24.svg?logo=intel&logoColor=white" alt="intel-firm">| |
-|<img src="https://img.shields.io/badge/Intel-Core 7 14700K-ED1C24.svg?logo=intel&logoColor=white" alt="intel-firm">| |
+|<img src="https://img.shields.io/badge/intel-Core i5 14600K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">| |
+|<img src="https://img.shields.io/badge/intel-Core i7 14700K-0071C5.svg?logo=intel&logoColor=white" alt="intel-firm">| |
 |<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">| |
 |<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=white" alt="amd-firm">| |
 
+
 |桌面端|显存|
 |:-------:|:-------:|
-|<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB|
-|<img src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
-|<img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB| 
-|<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
-|<img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
-|<img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|12GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|6GB 12GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|6GB 12GB| 
+|<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|8GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia-firm">|12GB|
 
 
 
