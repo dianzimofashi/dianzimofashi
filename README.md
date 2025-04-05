@@ -7,14 +7,14 @@
 
 ****
 
-|显卡|桌面端|显存| 
-|:-------:|:-------:|:-------:|
-|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB|
-|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
-|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB| 
-|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
-|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
-|GPU|<img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|12GB|
+|桌面端|显存|
+|:-------:|:-------:|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|6GB 12GB| 
+|<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|8GB|
+|<img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|12GB|
 
 
 | 硬件配置 | 笔记本端 |  桌面端  |
