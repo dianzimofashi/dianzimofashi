@@ -17,12 +17,12 @@
 |<img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900.svg?logo=nvidia&logoColor=green" alt="nvidia firm">|12GB|
 
 
-| 硬件配置 | 笔记本端 |  桌面端  |
-|:-------:|:-------:|:--------:|
-|       | centered        |   $12 |
-| RAM      | are neat        |    $1 |
-|CPU|<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">|
-|CPU|<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">|
+
+
+|笔记本端|显存|
+|:-----:|:-----:|
+|<img src="https://img.shields.io/badge/AMD-Ryzen 5 9600X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">||
+|<img src="https://img.shields.io/badge/AMD-Ryzen 7 9700X-ED1C24.svg?logo=amd&logoColor=red" alt="AMD firm">||
 
 
 
