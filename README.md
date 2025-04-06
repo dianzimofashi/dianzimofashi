@@ -18,12 +18,12 @@
 
 |  🖥️ 桌面端处理器 <br/> Desktop CPU  |  🔧 核心&线程 <br/> Cores & Threads  |  🎮 桌面端显卡 <br/> Desktop GPU  |  💾 显存 <br/> VRAM  |
 |:-----:|:-----:|:-----:|:-----:|
-| ![Ryzen 5 9600X](https://img.shields.io/badge/AMD-Ryzen%205%209600X-ED1C24?logo=amd&logoColor=white) | 6 / 12 | ![RTX 2060](https://img.shields.io/badge/NVIDIA-RTX%202060-76B900?logo=nvidia&logoColor=green) | 6GB / 12GB |
-| ![Ryzen 7 9700X](https://img.shields.io/badge/AMD-Ryzen%207%209700X-ED1C24?logo=amd&logoColor=white) | 8 / 16 | ![RTX 2070](https://img.shields.io/badge/NVIDIA-RTX%202070-76B900?logo=nvidia&logoColor=green) | 8GB |
-| ![i5 14600K](https://img.shields.io/badge/Intel-Core%20i5%2014600K-0071C5?logo=intel&logoColor=white) | 6P + 8E / 20T | ![RTX 3060](https://img.shields.io/badge/NVIDIA-RTX%203060-76B900?logo=nvidia&logoColor=green) | 6GB / 12GB |
-| ![i7 14700K](https://img.shields.io/badge/Intel-Core%20i7%2014700K-0071C5?logo=intel&logoColor=white) | 8P + 12E / 28T | ![RTX 3070](https://img.shields.io/badge/NVIDIA-RTX%203070-76B900?logo=nvidia&logoColor=green) | 8GB |
-| ![Ultra 5 245K](https://img.shields.io/badge/Intel-Core%20Ultra%205%20245K-0071C5?logo=intel&logoColor=white) | 6P + 8E / 14T | ![RTX 4060](https://img.shields.io/badge/NVIDIA-RTX%204060-76B900?logo=nvidia&logoColor=green) | 8GB |
-| ![Ultra 7 265K](https://img.shields.io/badge/Intel-Core%20Ultra%207%20265K-0071C5?logo=intel&logoColor=white) | 8P + 12E / 20T | ![RTX 4070](https://img.shields.io/badge/NVIDIA-RTX%204070-76B900?logo=nvidia&logoColor=green) | 12GB |
+| ![Ryzen 5 9600X](https://img.shields.io/badge/AMD-Ryzen%205%209600X-ED1C24?logo=amd&logoColor=white) | 6 / 12 | ![RTX 2060](https://img.shields.io/badge/NVIDIA-RTX%202060-76B900?logo=nvidia&logoColor=white) | 6GB / 12GB |
+| ![Ryzen 7 9700X](https://img.shields.io/badge/AMD-Ryzen%207%209700X-ED1C24?logo=amd&logoColor=white) | 8 / 16 | ![RTX 2070](https://img.shields.io/badge/NVIDIA-RTX%202070-76B900?logo=nvidia&logoColor=white) | 8GB |
+| ![i5 14600K](https://img.shields.io/badge/Intel-Core%20i5%2014600K-0071C5?logo=intel&logoColor=white) | 6P + 8E / 20T | ![RTX 3060](https://img.shields.io/badge/NVIDIA-RTX%203060-76B900?logo=nvidia&logoColor=white) | 6GB / 12GB |
+| ![i7 14700K](https://img.shields.io/badge/Intel-Core%20i7%2014700K-0071C5?logo=intel&logoColor=white) | 8P + 12E / 28T | ![RTX 3070](https://img.shields.io/badge/NVIDIA-RTX%203070-76B900?logo=nvidia&logoColor=white) | 8GB |
+| ![Ultra 5 245K](https://img.shields.io/badge/Intel-Core%20Ultra%205%20245K-0071C5?logo=intel&logoColor=white) | 6P + 8E / 14T | ![RTX 4060](https://img.shields.io/badge/NVIDIA-RTX%204060-76B900?logo=nvidia&logoColor=white) | 8GB |
+| ![Ultra 7 265K](https://img.shields.io/badge/Intel-Core%20Ultra%207%20265K-0071C5?logo=intel&logoColor=white) | 8P + 12E / 20T | ![RTX 4070](https://img.shields.io/badge/NVIDIA-RTX%204070-76B900?logo=nvidia&logoColor=white) | 12GB |
 
 </div>
 
