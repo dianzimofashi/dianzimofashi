@@ -31,68 +31,9 @@
 |<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=50% alt="WeChat_leave_a_message.png">|<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=40% alt="Bilibili_channnl.png">|
 
 ****
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/499375019?spm_id_from=333.337.0.0)
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-	<div>
- 		<b>哔哩哔哩(BiliBili)</b>
-	</div>
-	<div align="center">
- 		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=30% alt="Bilibili_channnl.png">
-	</div>
-</div>
-
-
-
-
-
-
-
-<div>
-	<div>
-		<b>留言联系(Leave a message)</b>
-	</div>
-	<img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt="Wechat">
-	<div align="center">
-		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=40% alt="WeChat_leave_a_message.png">
-	</div> 
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue" alt="Python">
-</div>
-
-
-
-
-
-<div>
-	<div>
- 		<b>东方厨(Touhoufans)</b>	
-	</div>
- 	<div align="center">
-		<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Touhou.jpg" width=20% alt="WeChat_leave_a_message.png">
-	</div> 	
-</div>
