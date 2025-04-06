@@ -52,7 +52,7 @@
 <div align="center">
 
 | 🖥️ 桌面端处理器 <br/> Desktop CPU | 🔧 核心&线程 <br/> Cores & Threads | 🎮 桌面端显卡 <br/> Desktop GPU | 💾 显存 <br/> VRAM |
-|:--:|:--:|:--:|:--:|
+|:----:|:----:|:----:|:----:|
 | ![Ryzen 5 9600X](https://img.shields.io/badge/AMD-Ryzen%205%209600X-ED1C24?logo=amd&logoColor=white) | 6 / 12 | ![RTX 2060](https://img.shields.io/badge/NVIDIA-RTX%202060-76B900?logo=nvidia&logoColor=green) | 6GB / 12GB |
 | ![Ryzen 7 9700X](https://img.shields.io/badge/AMD-Ryzen%207%209700X-ED1C24?logo=amd&logoColor=white) | 8 / 16 | ![RTX 2070](https://img.shields.io/badge/NVIDIA-RTX%202070-76B900?logo=nvidia&logoColor=green) | 8GB |
 | ![i5 14600K](https://img.shields.io/badge/Intel-Core%20i5%2014600K-0071C5?logo=intel&logoColor=white) | 6P + 8E / 20T | ![RTX 3060](https://img.shields.io/badge/NVIDIA-RTX%203060-76B900?logo=nvidia&logoColor=green) | 6GB / 12GB |
@@ -73,7 +73,7 @@
 <div align="center">
 
 | 微信 WeChat | 哔哩哔哩 Bilibili |
-|:--:|:--:|
+|:----:|:----:|
 | ![Wechat](https://img.shields.io/badge/WeChat-7BB32E?logo=wechat&logoColor=white) <br/> <img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width="200"/> | [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/499375019?spm_id_from=333.337.0.0) <br/> <img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width="160"/> |
 
 </div>
