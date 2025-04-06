@@ -27,7 +27,7 @@
 
 
 |微信(Wechat)|哔哩哔哩(BiliBili)|
-| ---- | ---- |
+|:----:|:----:|
 |<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=40% alt="WeChat_leave_a_message.png">|<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=30% alt="Bilibili_channnl.png">|
 
 
