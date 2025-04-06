@@ -26,7 +26,7 @@
 ****
 
 
-|<img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt="Wechat">微信(Wechat)|<img src="https://img.shields.io/badge/BiliBili-00A1D6?logo=bilbili&logoColor=white" alt="Bilibili">哔哩哔哩(Bilibili)|
+|<img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt="Wechat">微信(Wechat)|<img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilbili&logoColor=white" alt="Bilibili">哔哩哔哩(Bilibili)|
 |:----:|:----:|
 |<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width=50% alt="WeChat_leave_a_message.png">|<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width=40% alt="Bilibili_channnl.png">|
 
