@@ -37,9 +37,9 @@
 
 <div align="center">
 
-| 微信 WeChat | 哔哩哔哩 Bilibili |
+| 微信 WeChat![Wechat](https://img.shields.io/badge/WeChat-7BB32E?logo=wechat&logoColor=white) | 哔哩哔哩 Bilibili [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/499375019?spm_id_from=333.337.0.0)|
 |:----:|:----:|
-| ![Wechat](https://img.shields.io/badge/WeChat-7BB32E?logo=wechat&logoColor=white) <br/> <img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width="200"/> | [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/499375019?spm_id_from=333.337.0.0) <br/> <img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width="160"/> |
+|<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/WeChat_leave_a_message.png" width="200"/> |<img src="https://github.com/dianzimofashi/dianzimofashi/blob/main/resx/Bilibili_channel.png" width="160"/> |
 
 </div>
 
