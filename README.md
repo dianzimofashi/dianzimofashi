@@ -43,3 +43,32 @@
 
 </div>
 
+
+# NVIDIA GeForce RTX 20、30 和 40 系列显卡参数对比
+
+| 显卡型号            | 架构         | CUDA 核心 | RT 核心 | Tensor 核心 | 基础频率 | 加速频率 | 显存大小 | 显存类型 | 显存带宽 | TDP  |
+|--------------------|--------------|-----------|---------|-------------|----------|----------|----------|----------|----------|------|
+| **RTX 2060**       | Turing       | 1920      | 30      | 240         | 1365 MHz | 1680 MHz | 6 GB     | GDDR6    | 336 GB/s | 160W |
+| **RTX 2060 SUPER** | Turing       | 2176      | 34      | 272         | 1470 MHz | 1650 MHz | 8 GB     | GDDR6    | 448 GB/s | 175W |
+| **RTX 2070**       | Turing       | 2304      | 36      | 288         | 1410 MHz | 1620 MHz | 8 GB     | GDDR6    | 448 GB/s | 175W |
+| **RTX 2070 SUPER** | Turing       | 2560      | 40      | 320         | 1605 MHz | 1770 MHz | 8 GB     | GDDR6    | 448 GB/s | 215W |
+| **RTX 2080**       | Turing       | 2944      | 46      | 368         | 1515 MHz | 1710 MHz | 8 GB     | GDDR6    | 448 GB/s | 215W |
+| **RTX 2080 SUPER** | Turing       | 3072      | 48      | 384         | 1650 MHz | 1815 MHz | 8 GB     | GDDR6    | 496 GB/s | 250W |
+| **RTX 2080 Ti**    | Turing       | 4352      | 68      | 544         | 1350 MHz | 1545 MHz | 11 GB    | GDDR6    | 616 GB/s | 250W |
+| **RTX 3060**       | Ampere       | 3584      | 28      | 112         | 1320 MHz | 1777 MHz | 12 GB    | GDDR6    | 360 GB/s | 170W |
+| **RTX 3060 Ti**    | Ampere       | 4864      | 38      | 152         | 1410 MHz | 1665 MHz | 8 GB     | GDDR6    | 448 GB/s | 200W |
+| **RTX 3070**       | Ampere       | 5888      | 46      | 184         | 1500 MHz | 1725 MHz | 8 GB     | GDDR6    | 448 GB/s | 220W |
+| **RTX 3070 Ti**    | Ampere       | 6144      | 48      | 192         | 1575 MHz | 1770 MHz | 8 GB     | GDDR6X   | 608 GB/s | 290W |
+| **RTX 3080**       | Ampere       | 8704      | 68      | 272         | 1440 MHz | 1710 MHz | 10 GB    | GDDR6X   | 760 GB/s | 320W |
+| **RTX 3080 Ti**    | Ampere       | 10240     | 80      | 320         | 1365 MHz | 1665 MHz | 12 GB    | GDDR6X   | 912 GB/s | 350W |
+| **RTX 3090**       | Ampere       | 10496     | 82      | 328         | 1395 MHz | 1695 MHz | 24 GB    | GDDR6X   | 936 GB/s | 350W |
+| **RTX 3090 Ti**    | Ampere       | 10752     | 84      | 336         | 1560 MHz | 1860 MHz | 24 GB    | GDDR6X   | 1008 GB/s| 450W |
+| **RTX 4060**       | Ada Lovelace | 3072      | 24      | 96          | 1830 MHz | 2460 MHz | 8 GB     | GDDR6    | 272 GB/s | 115W |
+| **RTX 4060 Ti**    | Ada Lovelace | 4352      | 32      | 128         | 2310 MHz | 2535 MHz | 8 GB     | GDDR6    | 288 GB/s | 160W |
+| **RTX 4070**       | Ada Lovelace | 5888      | 46      | 184         | 1920 MHz | 2475 MHz | 12 GB    | GDDR6X   | 504 GB/s | 200W |
+| **RTX 4070 Ti**    | Ada Lovelace | 7680      | 60      | 240         | 2310 MHz | 2610 MHz | 12 GB    | GDDR6X   | 504 GB/s | 285W |
+| **RTX 4080**       | Ada Lovelace | 9728      | 76      | 304         | 2205 MHz | 2505 MHz | 16 GB    | GDDR6X   | 736 GB/s | 320W |
+| **RTX 4080 SUPER** | Ada Lovelace | 10240     | 80      | 320         | 2295 MHz | 2550 MHz | 16 GB    | GDDR6X   | 736 GB/s | 320W |
+| **RTX 4090**       | Ada Lovelace | 16384     | 128     | 512         | 2235 MHz | 2520 MHz | 24 GB    | GDDR6X   | 1008 GB/s| 450W |
+
+
