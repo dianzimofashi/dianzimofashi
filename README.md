@@ -8,13 +8,6 @@
 <br/>
 
 <div align="center">
-  <strong>📦 部分仓库项目最低硬件支持</strong><br/>
-  <em>Minimum hardware support for some repos</em>
-</div>
-
-<br/>
-
-<div align="center">
   <strong>🔗 联系方式 / 社交平台</strong>
 </div>
 
